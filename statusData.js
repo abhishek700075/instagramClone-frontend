@@ -1,0 +1,64 @@
+const obj = [
+    {
+        username:"kejriwal",
+        profilePic:"https://www.thestatesman.com/wp-content/uploads/2023/07/Statesman-38.jpg",
+        satatusPic:[
+            {
+                imageUrl:"https://t4.ftcdn.net/jpg/05/50/61/75/360_F_550617518_Eu3U6kTl3mODPvnfTMFHQ88z1y5KNfNQ.jpg"
+            },
+            {
+                imageUrl:"https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ]
+    },
+    {
+        username:"dhoni",
+        profilePic:"https://cdn.britannica.com/25/222725-050-170F622A/Indian-cricketer-Mahendra-Singh-Dhoni-2011.jpg",
+        satatusPic:[
+            {
+                imageUrl:"https://www.hindustantimes.com/ht-img/img/2023/05/11/1600x900/PTI05-10-2023-000236B-0_1683795812774_1683795880945.jpg"
+            },
+            {
+                imageUrl:"https://static.tnn.in/thumb/msid-104136739,thumbsize-32914,width-1280,height-720,resizemode-75/104136739.jpg"
+            }
+        ]
+    },
+    {
+        username:"virat",
+        profilePic:"https://upload.wikimedia.org/wikipedia/commons/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg",
+        satatusPic:[
+            {
+                imageUrl:"https://static.toiimg.com/photo/104569311.cms"
+            },
+            {
+                imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn82PfulOtcbSGr5zZ7vTyn2rOJ7ozVdoy9Wd1qM0FB3Ddq3twJC2Kes3f-mvQEHWPVA&usqp=CAU"
+            }
+        ]
+    },
+    {
+        username:"Rahul Gandhi",
+        profilePic:"https://pbs.twimg.com/profile_images/1673604373824372743/F_dBOyBz_400x400.jpg",
+        satatusPic:[
+            {
+                imageUrl:"https://gumlet.assettype.com/nationalherald%2F2023-08%2Fe9307820-b735-4c85-8b66-5c5bfed467c3%2Frahul_rameshwar.jpg?rect=0%2C0%2C1237%2C696&auto=format%2Ccompress&fmt=webp&w=1200"
+            },
+            {
+                imageUrl:"https://c.ndtvimg.com/2023-01/orn9bve8_rahul-gandhi_625x300_02_January_23.jpg?im=Resize=(1230,900)"
+            }
+        ]
+    },
+    {
+        username:"akshay",
+        profilePic:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKW-E2ANTMDwWeGQxb8TdD8cVryY2aMMbCRqYqy-x3JkW-oz0O",
+        satatusPic:[
+            {
+                imageUrl:"https://t4.ftcdn.net/jpg/05/50/61/75/360_F_550617518_Eu3U6kTl3mODPvnfTMFHQ88z1y5KNfNQ.jpg"
+            },
+            {
+                imageUrl:"https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D"
+            }
+        ]
+    },  
+]
+
+export default obj;
